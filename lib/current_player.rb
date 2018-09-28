@@ -8,3 +8,10 @@ def turn_count(board)
   end
 
 end
+
+
+#if mark == "X"
+#  counter += 1
+#elsif mark == "O"
+#  counter += 1
+#end
